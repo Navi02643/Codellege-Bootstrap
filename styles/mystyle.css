@@ -1,0 +1,190 @@
+.bg-custom{
+    background-color: #F0F2F5;
+}
+.bg-custom2{
+    background-color: #FFFFFF;
+}
+.img{
+    max-width: 10%;
+    max-height: 15%;
+}
+.text-custom{
+    color: #1877F2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+}
+.text-custom2{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+.btn-custom{
+    background-color: #36A420;
+    color: #FFFFFF;
+}
+.m-6{
+    margin-left: 50%;
+    margin-right: 22%;
+}
+.m-7{
+    margin-left: 75%;
+}
+.p-6{
+    padding-left: 35%;
+}
+#deg{
+    width: 35%;
+    height: 45%;
+    margin-top: 15%;
+    margin-left: 15%;
+    border-radius: 20px;
+}
+#reg{
+    width: 35%;
+    height: 45%;
+    margin-top: 10%;
+    margin-right: 20%;
+}
+p>a{
+    text-decoration: none;
+    color: black;
+}
+.cal{
+    text-decoration: none;
+    color:white;
+}
+
+
+.bg-custom3{
+    background-color: #242526;
+    color: #E7E9ED;
+}
+.bg-custom4{
+    background-color: #18191A;
+    color: #C1C3C6;
+    width: 25%;
+    height: 100%;
+}
+.bg-custom5{
+    background-color: #18191A;
+    color: #C1C3C6;
+    width: 50%;
+    height: 100%;
+}
+.buscador{
+    background-color: #3A3B3C;
+    color: #A2A5A9;
+    position: relative;
+    border-radius: 5%;
+}
+.perfil{
+    color: #E7E9ED;
+    border-radius: 50%;
+}
+.fondo{
+    width: 10%;
+    height: 150%;
+    background-color: #4E4F50;
+    color: #E7E9ED;
+    border-radius: 50%;
+}
+.fondo2{
+    color: #E7E9ED;
+}
+.enuso{
+    border-bottom: #1877F2 solid 3px;
+    color: #1877F2;
+}
+.foto{
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+}
+.m-8{
+    padding-top: 2%;
+}
+ul>li{
+    list-style-type: none;
+}
+ul>li>a::hover{
+    background-color: #A2A5A9;
+}
+.p-7{
+    padding-top: 4%;
+}
+.p-8{
+    padding-left: 2%;
+}
+.bg-hr{
+    background-color: #4E4F50;
+}
+.p-9{
+    padding-right: 1%;
+}
+.p-10{
+    padding-left: 45%;
+}
+.p-11{
+    padding-left: 25%;
+}
+.m-9{
+    margin-left: 5%;
+}
+.publicidad1{
+    width: 25%;
+    height: 15%;
+    border-radius: 10%;
+}
+.publicidad2{
+    padding-top: 5%;
+    width: 25%;
+    height: 15%;
+    border-radius: 10%;
+}
+.foto2{
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
+}
+.foto3{
+    width: 5%;
+    height: 5%;
+    border-radius: 50%;
+}
+.amigos{
+    color: #C1C3C6;
+    font-size: small;
+}
+.historias{
+    width: 15%;
+    height: 25%;
+    border: #E7E9ED solid 2px;
+    margin:2%;
+    padding-top: 5%;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+input{
+    border-radius: 5%;
+}
+.lost{
+    color: #A2A5A9;
+}
+.fondo3{
+    background-color: #242526;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+.m-10{
+    padding-top: 2%;
+    margin-left: 5%;
+}
+.publicacion{
+    width: 100%;
+}
